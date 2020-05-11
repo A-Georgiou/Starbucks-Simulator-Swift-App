@@ -1,4 +1,4 @@
-# Starbucks Simulator - Guide to use
+# Starbucks Simulator - Coffee Shop Finder
 This Application was built as part of a series of teaching myself swift for ios app development through xcode.
 
 ## How to run code
@@ -18,3 +18,7 @@ This Application was built as part of a series of teaching myself swift for ios 
 - Requires iOS 11 or later to install the app.
 - Device should support GPS and be connected to the internet.
 - Can still function without user location functionality through use of GPX files in XCode, [click here to view how.](https://medium.com/@merlos/how-to-simulate-locations-in-xcode-b0f7f16e126d)
+
+# Using The App
+![using The App](https://i.imgur.com/rVmtoBp.png)
+![Searching for coffee](https://i.imgur.com/Smwiy5t.png)
